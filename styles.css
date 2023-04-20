@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+.container{
+    width: 100%;
+    margin-right: 10%;
+}
+
+.navbar-brand-text{
+    text-decoration: none;
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-brand-text{
+    color: black;
+}
+
+
+.icon-instagram {
+    width: 30px;
+    height: 30px;
+}
+
+.img-camara{
+    width: 20px;
+    height: 20px;
+}
+
+.img-config{
+    width: 25px;
+    height: 25px;
+}
